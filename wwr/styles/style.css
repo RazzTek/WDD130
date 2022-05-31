@@ -109,8 +109,8 @@ footer .social img {
 }
 
 .book, .join {
-    background-color:#307D3B ;
-    color: #ffffff;
+    background-color:#000000 ;
+    color: #DDD92A;
     text-decoration: none;
     font-size: 18px;
     padding: 15px 30px;
@@ -119,8 +119,8 @@ footer .social img {
 }
 
 .book:hover, .join:hover{
-    color: #307D3B ;
-    background-color: #ffffff;
+    color: #DDD92A ;
+    background-color: #000000;
 }
 
 .msg {
