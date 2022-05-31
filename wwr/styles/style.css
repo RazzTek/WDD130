@@ -124,18 +124,19 @@ footer .social img {
 }
 
 .msg {
-    background-color:#307D3B ;
+    background-color:##EAE151;
+    color: #000000;
     line-height: 1.5em;
     padding: 35px;
 }
 
 .msg h2{
-    color: #ffffff;
+    color: #000000;
     font-family: 'Comic Neue', cursive, 'Brush Scipt MT';
 }
 
 .msg p {
-    color: #ffffff;
+    color: #000000;
     font-size: .8em;
     padding-bottom: 15px;
 }
