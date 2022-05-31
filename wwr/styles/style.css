@@ -109,13 +109,21 @@ footer .social img {
 }
 
 .book, .join {
-    background-color:#DDD92A;
-    color: #000000;
     text-decoration: none;
     font-size: 18px;
     padding: 15px 30px;
     margin-top: 50px;
     border-radius: 5px;
+}
+
+.book {
+    background-color:#DDD92A;
+    color: #000000;
+}
+
+.join {
+    background-color:#dd8c2a;
+    color: #000000;
 }
 
 .book:hover, .join:hover{
