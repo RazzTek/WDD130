@@ -1,0 +1,34 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+p {
+    padding: 0;
+    margin: 0;
+    background-color: gray;
+}
+
+#content {
+    max-width: 750px;
+    margin: 0 auto;
+}
+
+#large_img {
+    width: 100%;
+}
+
+#small_imgs {
+    text-align: center;
+    border-width: 10px;
+}
+
+#small_imgs img {
+    width: 25%;
+    border-radius: 50%;
+    margin:20px;
+    border-color: black;
+    border-width: 10px;
+    border-style: ridge;
+    box-sizing: border-box;
+}
