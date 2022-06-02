@@ -1,0 +1,18 @@
+#content {
+    background-color: pink;
+    color: black;
+    margin: 0 40px;
+}
+
+h1 {
+    color: white;
+}
+
+#quote {
+    color: white;
+    text-align: center;
+}
+
+.challege4 {
+    width: 200px;
+}
