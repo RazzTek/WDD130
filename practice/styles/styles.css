@@ -9,6 +9,11 @@
     margin: 40px;
   }
 
+  a:hover {
+    background-color: white;
+    color: steelblue;
+  }
+
   h1 {
     color: steelblue;
     text-align: center;
@@ -24,7 +29,8 @@
     text-align: center;
 }
 footer p {
-  margin: 0 auto;
+  font-size: 20px;
+  margin: 20px auto;
 }
 
   .main-para {
