@@ -1,7 +1,12 @@
+
 #content {
     background-color: pink;
     color: black;
-    margin: 0 40px;
+    max-width: 720px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 30px 0;
 }
 
 h1 {
@@ -11,8 +16,32 @@ h1 {
 #quote {
     color: white;
     text-align: center;
+    margin: 0 20%;
 }
 
-.challege4 {
+#quotee {
+    font-weight: bold;
+}
+
+ol {
+    text-align: left;
+    margin: 10px 25%;
+}
+
+#challenge4 {
     width: 200px;
+    text-align: center;
+    padding: 20px;
+}
+
+#quote2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+    line-height: 1.5em;
+    margin: 20px 30%;
+    color: white;
+}
+
+footer {
+    margin: 0 30%;;
 }
